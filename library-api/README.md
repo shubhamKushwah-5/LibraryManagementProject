@@ -29,7 +29,7 @@ A RESTful API for managing library operations including books, members, and borr
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shubhamKushwah-5/LibraryManagementProject.git
 cd library-api
 ```
 
